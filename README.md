@@ -2,7 +2,7 @@
 
 # Weather-Based Business Intelligence Platform
 
-A college-level backend project that ingests weather data via a third-party API, stores observations and business sales signals, and exposes analytics endpoints for basic forecasting and reporting.
+A backend project that ingests weather data via a third-party API, stores observations and business sales signals, and exposes analytics endpoints for basic forecasting and reporting.
 
 ## Features
 - Ingest weather observations (OpenWeather API) with validation + structured storage
